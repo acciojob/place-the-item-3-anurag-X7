@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.holder{
+	height:100vh;
+	display:flex;
+	justify-content:space-around;
+	flex-direction:column;
+	flex-wrap:wrap;
+}
